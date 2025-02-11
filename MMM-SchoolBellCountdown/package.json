@@ -1,0 +1,8 @@
+{
+    "name": "mmm-schoolbellcountdown",
+    "version": "1.0.0",
+    "description": "A MagicMirror module to display the countdown to the end of the current school period.",
+    "main": "MMM-SchoolBellCountdown.js",
+    "dependencies": {}
+  }
+  
